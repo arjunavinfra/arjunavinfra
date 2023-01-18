@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arjunavinfra
 - 👀 I’m interested in ... :computer:
-- 🌱 I’m currently learning ... :awesome_gopher:
-- 💞️ I’m looking to collaborate on ... :infracloud: 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
