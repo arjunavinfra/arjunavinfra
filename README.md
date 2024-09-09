@@ -22,6 +22,12 @@
  <br> 
  <br> 
 
+GitOps
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="mongodb" width="40" height="40"/> </a> 
+
+
+
 Database
  <br> 
 
