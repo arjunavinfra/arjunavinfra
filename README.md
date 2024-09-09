@@ -6,9 +6,9 @@
 
 Orchestration
 <br> <br> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker.svg" alt="docker" width="60" height="60"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker.svg" alt="docker" width="120" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" width="60" height="60"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" width="120" height="60"/> </a> 
 <br> <br> 
 
 Cloud 
