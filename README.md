@@ -34,6 +34,13 @@ App development
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="" width="40" height="40"/> </a> 
 <br> <br> 
 
+Programing and Automation
+<br> <br> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/python-3.svg" alt="" width="40" height="40"/> </a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="" width="40" height="40"/> </a> 
+<br> <br> 
+
 IAC
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/actions/starter-workflows/blob/main/icons/terraform.svg" alt="" width="40" height="40"/> </a> 
