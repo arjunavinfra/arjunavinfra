@@ -51,7 +51,6 @@ GitOps
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <br> <br> 
 
 K8s Packaging
@@ -59,9 +58,6 @@ K8s Packaging
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/helm.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*D_zi4yHDqh2Hx0YnLxtlGQ.jpeg" alt="" width="150" height="40"/> </a> 
-
-
-
 <br> <br> 
 
 
@@ -79,7 +75,6 @@ observability
 <br> <br> 
 
 Streaming 
-
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/prometheus.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
