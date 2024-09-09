@@ -6,7 +6,10 @@ Orchestration
 <br> <br> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker.svg" alt="docker" width="120" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" width="120" height="60"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" width="120" height="60"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/60d28872831dd0f87a178997/661ca132697136342511fa22_vCluster%20Logo.svg" alt="kubernetes" width="120" height="60"/> </a>
+
 <br> <br> 
 
 Cloud 
@@ -105,5 +108,19 @@ OS
 SCM 
 <br> <br> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
+
+
+HA Tools
+
+Keda : <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
+
+
+
+Networking
+
+
+Security
+
+
 
 
