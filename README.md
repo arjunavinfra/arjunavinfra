@@ -43,7 +43,7 @@ Programing and Automation
 
 IAC
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/terraform.svg" alt="" width="100" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/terraform.svg" alt="" width="120" height="80"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/ansible.svg" alt="" width="80" height="80"/> </a> 
 <br> <br> 
