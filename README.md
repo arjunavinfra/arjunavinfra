@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h2 align="center">I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery.</h2>
+<h2 align="center">I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery. My focus is on building scalable, secure, and efficient infrastructures using cutting-edge tools and technologies. Below is a quick overview of the tools I frequently work with:.</h2>
 
 
 ☁️ Cloud:
 <br> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
 <br> 
@@ -69,6 +68,9 @@ OS
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/ubuntuone.svg
 )" alt="linux" width="40" height="40"/> </a>
 
+SCM 
+<br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
 
@@ -79,7 +81,7 @@ OS
 
 
 Hi there 👋 !
-I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery. My focus is on building scalable, secure, and efficient infrastructures using cutting-edge tools and technologies. Below is a quick overview of the tools I frequently work with:
+
 
 Contact:  <a href="https://www.linkedin.com/in/arjunavofficial">Linkdin</a>
 
