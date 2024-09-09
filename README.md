@@ -42,7 +42,13 @@ Contact:  <a href="https://www.linkedin.com/in/arjunavofficial">Linkdin</a>
 - Prometheus grafana thanos
 
 🛸 Streaming
-- Kafka 
+- Kafka
+
+Database
+- Postgresql
+- MongoDB
+- CosmosSB
+- MySql
 
 <!---
 arjunavinfra/arjunavinfra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
