@@ -22,14 +22,28 @@
  <br> 
  <br> 
 
+
+App development
+<br> 
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="" width="40" height="40"/> </a> 
+
+IAC
+<br> 
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/actions/starter-workflows/blob/main/icons/terraform.svg" alt="" width="40" height="40"/> </a> 
+ <br> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/ansible.svg" alt="" width="40" height="40"/> </a> 
+
+
 GitOps
+<br> 
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="mongodb" width="40" height="40"/> </a> 
-
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="40" height="40"/> </a> 
 
 
 Database
- <br> 
+<br> 
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -61,7 +75,7 @@ Contact:  <a href="https://www.linkedin.com/in/arjunavofficial">Linkdin</a>
 🚀 GitOps:
 - ArgoCD
 
-🗒️ IAC: 
+🗒️ : 
 - Terraform 
 - Ansible
 
@@ -86,14 +100,9 @@ Contact:  <a href="https://www.linkedin.com/in/arjunavofficial">Linkdin</a>
 🔎 observability
 - Prometheus grafana thanos
 
-🛸 Streaming
+🛸 
 - Kafka
 
-Database
-- Postgresql
-- MongoDB
-- CosmosSB
-- MySql
 
 <!---
 arjunavinfra/arjunavinfra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
