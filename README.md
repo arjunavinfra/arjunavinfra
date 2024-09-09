@@ -53,7 +53,6 @@ GitOps
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="60" height="60"/> </a> 
 
 <br> <br> 
 
@@ -81,6 +80,11 @@ observability
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" alt="" width="59" height="60"/> </a>
 <br> <br> 
 
+Streaming 
+
+<br> <br> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/prometheus.svg" alt="" width="60" height="60"/> </a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Database
 <br> <br> 
