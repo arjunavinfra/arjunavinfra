@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery.</h3>
+<h2 align="center">I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery.</h2>
 
 - 🔭 I’m currently working on **Platform development**
 
