@@ -4,36 +4,45 @@ I'm a DevOps Engineer with a passion for cloud-native technologies, automation, 
 
 Contact:  <a href="https://www.linkedin.com/in/arjunavofficial">Linkdin</a>
 
-Orchestration: 
-Kubernetes
-Docker
+🛰️ Orchestration: 
+- Kubernetes
+- Docker
 
-CICD:
-Jenkins
-GitLab
-Azure Devops 
+🚀 CICD:
+- Jenkins
+- GitLab
+- Azure Devops 
 
-GitOps:
-ArgoCD
+🚀 GitOps:
+- ArgoCD
 
-IAC: 
-Terraform 
-Ansible
+🗒️ IAC: 
+- Terraform 
+- Ansible
 
-Cloud: 
-AWS
-Azure 
+☁️ Cloud: 
+- AWS
+- Azure 
 
-Programing:
-Python
-Bash 
+💻 Programing:
+- Python
+- Bash 
 
-FrameWork:
-FastAPI
+🧑‍💻 FrameWork:
+- FastAPI
 
-K8s Packaging:
-Helm
-kustomization
+📦 K8s Packaging:
+- Helm
+- kustomization
+
+🛳️ Logging
+- Elasticsearch Kibana fluentbit 
+
+🔎 observability
+- Prometheus grafana thanos
+
+🛸 Streaming
+- Kafka 
 
 <!---
 arjunavinfra/arjunavinfra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
