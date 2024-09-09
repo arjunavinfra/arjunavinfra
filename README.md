@@ -29,7 +29,7 @@ CI-CD
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/azure-devops.svg" alt="" width="40" height="40"/> </a>
 <br> <br> 
 
-App development
+API development
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="" width="40" height="40"/> </a> 
 <br> <br> 
