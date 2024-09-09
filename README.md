@@ -32,7 +32,7 @@ App development
 IAC
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/actions/starter-workflows/blob/main/icons/terraform.svg" alt="" width="40" height="40"/> </a> 
-&emsp;&emsp;
+&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/ansible.svg" alt="" width="40" height="40"/> </a> 
 <br> <br> 
 
