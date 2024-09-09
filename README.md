@@ -36,9 +36,9 @@ App development
 
 Programing and Automation
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/python-3.svg" alt="" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/python-3.svg" alt="" width="100" height="40"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="" width="100" height="40"/> </a> 
 <br> <br> 
 
 IAC
@@ -65,7 +65,7 @@ observability
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" alt="" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" alt="" width="40" height="80"/> </a>
 <br> <br> 
 
 
