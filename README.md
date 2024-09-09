@@ -61,7 +61,7 @@ K8s Packaging
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/helm.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*D_zi4yHDqh2Hx0YnLxtlGQ.jpeg" alt="" width="60" height="200"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*D_zi4yHDqh2Hx0YnLxtlGQ.jpeg" alt="" width="200" height="60"/> </a> 
 
 
 
