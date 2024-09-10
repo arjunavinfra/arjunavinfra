@@ -104,7 +104,6 @@ Storage
 <br><br>
 Networking
 <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="120" height="60"/> </a>
 <br><br>
 Security
