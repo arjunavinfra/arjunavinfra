@@ -9,9 +9,7 @@ Orchestration
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" width="120" height="60"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/60d28872831dd0f87a178997/661ca132697136342511fa22_vCluster%20Logo.svg" alt="kubernetes" width="120" height="60"/> </a>
-
 <br> <br> 
-
 Cloud 
 <br> <br> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a> 
@@ -20,7 +18,6 @@ Cloud
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a> 
 <br> <br> 
-
 CI-CD
 <br> <br> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a> 
@@ -29,39 +26,33 @@ CI-CD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/azure-devops.svg" alt="" width="60" height="60"/> </a>
 <br> <br> 
-
 API development
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="" width="60" height="60"/> </a> 
 <br> <br> 
-
 Programing and Automation
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/python-3.svg" alt="" width="100" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="" width="100" height="60"/> </a> 
 <br> <br> 
-
 IAC
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/terraform.svg" alt="" width="120" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/ansible.svg" alt="" width="60" height="60"/> </a> 
 <br> <br> 
-
 GitOps
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br> <br> 
-
 K8s Packaging
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/helm.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*D_zi4yHDqh2Hx0YnLxtlGQ.jpeg" alt="" width="150" height="40"/> </a> 
 <br> <br> 
-
 observability
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/prometheus.svg" alt="" width="60" height="60"/> </a> 
@@ -74,13 +65,11 @@ observability
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" alt="" width="59" height="60"/> </a>
 <br> <br> 
-
 Streaming 
 <br> <br> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br> <br> 
-
 Database
 <br> <br> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
@@ -93,7 +82,6 @@ Database
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a> </p>
 <br> <br> 
-
 OS
 <br> <br> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/redhat.svg" alt="linux" width="60" height="60"/> </a> 
@@ -102,26 +90,22 @@ OS
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" alt="linux" width="120" height="60"/> </a>
 <br> <br> 
-
 SCM 
 <br> <br> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
 <br> <br>
-
 HA Tools
 <br> <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
-
 Storage 
-
 <br> <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="git" width="120" height="35"/> </a>
-
+<br><br>
 Networking
 <br> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
-
+<br><br>
 Security
 
 
