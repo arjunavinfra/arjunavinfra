@@ -112,7 +112,10 @@ HA Tools
 <br> <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
 
+Storage 
 
+<br> <br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="git" width="60" height="60"/> </a>
 
 Networking
 <br> <br>
