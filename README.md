@@ -108,11 +108,11 @@ OS
 SCM 
 <br> <br> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-
+<br> <br>
 
 HA Tools
-
-Keda : <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
+<br> <br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
 
 
 
