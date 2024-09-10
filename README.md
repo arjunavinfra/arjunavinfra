@@ -115,7 +115,7 @@ HA Tools
 Storage 
 
 <br> <br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="git" width="60" height="60"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="git" width="120" height="60"/> </a>
 
 Networking
 <br> <br>
