@@ -6,13 +6,15 @@
 <div align="center">I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery. My focus is on building scalable, secure, and efficient infrastructures using cutting-edge tools and technologies. Below is a quick overview of the tools I frequently work with:</div>
 
 <br> <br>
+<span style="color: green;">
 Orchestration
+</span>
 <br> <br> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker.svg" alt="docker" width="120" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" width="120" height="60"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/60d28872831dd0f87a178997/661ca132697136342511fa22_vCluster%20Logo.svg" alt="kubernetes" width="120" height="60"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/60d28872831dd0f87a178997/661ca132697136342511fa22_vCluster%20Logo.svg" alt="kubernetes" width="120" height="60"/> </a>
 <br> <br> 
 Cloud 
 <br> <br> 
@@ -26,55 +28,55 @@ CI-CD
 <br> <br> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gitlab.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gitlab.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/azure-devops.svg" alt="" width="60" height="60"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/azure-devops.svg" alt="" width="60" height="60"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br> <br> 
 API development
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="" width="60" height="60"/> </a> 
 <br> <br> 
 Programing and Automation
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/python-3.svg" alt="" width="100" height="60"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/python-3.svg" alt="" width="100" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="" width="100" height="60"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/bash.svg" alt="" width="100" height="60"/> </a> 
 <br> <br> 
 IAC
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/terraform.svg" alt="" width="120" height="60"/> </a> 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/terraform.svg" alt="" width="120" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/ansible.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/ansible.svg" alt="" width="60" height="60"/> </a> 
 <br> <br> 
 GitOps
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/argocd.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br> <br> 
 K8s Packaging
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/helm.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/helm.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*D_zi4yHDqh2Hx0YnLxtlGQ.jpeg" alt="" width="150" height="40"/> </a> 
+<a href="https://kustomize.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*D_zi4yHDqh2Hx0YnLxtlGQ.jpeg" alt="" width="150" height="40"/> </a> 
 <br> <br> 
 observability
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/prometheus.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/prometheus.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" alt="" width="60" height="60"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" alt="" width="60" height="60"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" alt="" width="59" height="60"/> </a>
+<a href="https://fluentbit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" alt="" width="59" height="60"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="" width="140" height="60"/> </a>
+<a href="https://www.datadoghq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="" width="140" height="60"/> </a>
 <br> <br> 
 Streaming 
 <br> <br> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="" width="60" height="60"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br> <br> 
 Database
@@ -92,11 +94,11 @@ Database
 <br> <br> 
 OS
 <br> <br> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/redhat.svg" alt="linux" width="60" height="60"/> </a> 
+<a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/redhat.svg" alt="linux" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" alt="linux" width="120" height="60"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" alt="linux" width="120" height="60"/> </a>
 <br> <br> 
 SCM 
 <br> <br> 
@@ -104,11 +106,11 @@ SCM
 <br> <br>
 HA Tools
 <br> <br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
+<a href="https://keda.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/cncf/artwork/blob/main/projects/keda/icon/color/keda-icon-color.svg" alt="git" width="60" height="60"/> </a> 
 <br><br>
 Storage 
 <br> <br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="git" width="120" height="35"/> </a>
+<a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="git" width="120" height="35"/> </a>
 <br><br>
 Networking
 <br> <br>
