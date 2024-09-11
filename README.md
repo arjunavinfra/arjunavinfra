@@ -16,7 +16,7 @@ Orchestration
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/60d28872831dd0f87a178997/661ca132697136342511fa22_vCluster%20Logo.svg" alt="kubernetes" width="120" height="60"/> </a>
 <br> <br> 
-Cloud 
+<span style="color: green;">Cloud</span> 
 <br> <br> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
