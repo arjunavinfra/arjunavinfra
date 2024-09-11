@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/arjunavofficial" style="color: green; text-decoration: none;" onmouseover="this.style.color='#32CD32'" onmouseout="this.style.color='green'">Arjun</a>
- <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="20" height="20"/>
+<h1 align="center">Hi 👋, I'm Arjun
+<a href="https://www.linkedin.com/in/arjunavofficial" style="color: green; text-decoration: none;" onmouseover="this.style.color='#32CD32'" onmouseout="this.style.color='green'">  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="20" height="20"/> </a>
 </h1>
 
 
