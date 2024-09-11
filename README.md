@@ -6,9 +6,7 @@
 <div align="center">I'm a DevOps Engineer with a passion for cloud-native technologies, automation, and continuous delivery. My focus is on building scalable, secure, and efficient infrastructures using cutting-edge tools and technologies. Below is a quick overview of the tools I frequently work with:</div>
 
 <br> <br>
-<h5  style="color: green; text-decoration: none;" onmouseover="this.style.color='#32CD32'" onmouseout="this.style.color='green'">
 Orchestration
-</h5>
 <br> <br> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker.svg" alt="docker" width="120" height="60"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
